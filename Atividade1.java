@@ -18,8 +18,13 @@ class HelloWorld {
       System.out.println(nome + sobrenome);
       System.out.println("Sua idade:"+ idade);
       System.out.println("Seu endereco:"+ endereco);
+      System.out.println("Aniversario:" + aniversario);
+      System.out.println("Sexo:"+ sexo);
+      System.out.println("Peso:"+ peso);
+      System.out.println("Valor:"+valor);
+      System.out.println("Ano:"+ano);
+      System.out.println("Confirmar:"+confirma);
       
-      
-       
     }
 } 
+
