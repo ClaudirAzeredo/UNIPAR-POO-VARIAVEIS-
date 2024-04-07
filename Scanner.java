@@ -3,7 +3,7 @@
 
 class HelloWorld {
     public static void main(String[] args) {
-        
+         
         String nome = "";
         int idade = 0;
         double peso = 0.0;
